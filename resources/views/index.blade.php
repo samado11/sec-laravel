@@ -109,18 +109,18 @@
 										<div class="carousel slide" data-ride="carousel" id="myCarousel">
 											<!-- Indicators -->
 											<div style="position: absolute;background-color: white;padding:5%;border-radius: 50%;width: 440px;padding-top:10%;margin-top: 2%; height: 440px;display:block">
-												<h2 style="font-family: Gothic, sans-serif;color:rgb(147,26,62)"><span><span style="color:black">Cards printers</span><br>
+												<h2 style="font-family: Gothic, sans-serif;color:rgb(147,26,62);text-transform: uppercase;"><span><span style="color:black">Cards printers</span><br>
 												and identification solutions</span></h2><br><a style="background:linear-gradient(grey, black);padding:10px;color:white;font-family: Gothic, sans-serif;" href="products-services.html">Discover our products</a>
 											</div><!-- Wrapper for slides -->
 											<div class="carousel-inner" style="position: absolute;display:block">
-												<div class="item active"><img alt="printer" src="images/2.png" style="width:50%;margin-left: 30%;"></div>
+												<div class="item active"><img alt="printer" src="images/2.png" style="width:60%;margin-left: 30%;"></div>
 												<div class="item"><img alt="pvc card" src="images/3.png" style="width:50%;margin-left: 30%;"></div>
 											</div>
 										</div>
 									</div>
 								</div>
 								<article style="background-color:white;position:absolute;padding:10px;border: 1px solid  grey;">
-									<h2>Find the card solution for your needs</h2>
+									<h2 style="font-family: Gothic, sans-serif;">Find the card solution for your needs</h2>
 									<div>
 										<div>
 											<ul class="list-inline">
@@ -130,7 +130,7 @@
 												<div style="  width:100px;height: 60px;overflow: hidden;">
 													<img style=" width:100px" src="images/corporate.png" />
 												</div>
-												<h3>Corporate</h3>
+												<h5 style="font-family: Gothic, sans-serif;margin:10px;color:black;">Corporate</h5>
 												</span></a>
 													
 												</li>
@@ -140,7 +140,7 @@
 												<div style="  width:100px;height: 60px;overflow: hidden;">
 													<img style=" width:100px" src="images/education.png" />
 												</div>
-												<h3>Education</h3>
+												<h5 style="font-family: Gothic, sans-serif;margin:10px;color:black;">Education</h5>
 												</span></a>
 												</li>
 												<li class="list-inline-item">
@@ -149,7 +149,7 @@
 												<div style="  width:100px;height: 60px;overflow: hidden;">
 													<img style=" width:100px" src="images/gvt.png" />
 												</div>
-												<h3>Government</h3>
+												<h5 style="font-family: Gothic, sans-serif;margin:10px;color:black;">Government</h5>
 												</span></a>
 												</li>
 												<li class="list-inline-item">
@@ -158,7 +158,7 @@
 												<div style="  width:100px;height: 60px;overflow: hidden;">
 													<img style=" width:100px" src="images/health.png" />
 												</div>
-												<h3>Hospitals</h3>
+												<h5 style="font-family: Gothic, sans-serif;margin:10px;color:black;">Hospitals</h5>
 												</span></a>
 												</li>
 												<li class="list-inline-item">
@@ -167,7 +167,7 @@
 												<div style="  width:100px;height: 60px;overflow: hidden;">
 													<img style=" width:100px" src="images/retail.png" />
 												</div>
-												<h3>Retail</h3>
+												<h5 style="font-family: Gothic, sans-serif;margin:10px;color:black;">Retail</h5>
 												</span></a>
 												</li>
 												<li class="list-inline-item">
@@ -176,7 +176,7 @@
 												<div style="  width:100px;height: 60px;overflow: hidden;">
 													<img style=" width:100px" src="images/transport.png" />
 												</div>
-												<h3>Transportation</h3>
+												<h5 style="font-family: Gothic, sans-serif;margin:10px;color:black;">Transportation</h5>
 												</span></a>
 												</li>
 												<li class="list-inline-item" >
@@ -185,7 +185,7 @@
 												<div style="  width:100px;height: 60px;overflow: hidden;">
 													<img style=" width:100px" src="images/banks.png" />
 												</div>
-												<h3 style="align-self:center">Finance</h3>
+												<h5 style="font-family: Gothic, sans-serif;margin:10px;color:black;">Finance</h5>
 												</span></a>
 												</li>
 												

@@ -64,7 +64,7 @@
 				<div class="row">
 					<div class="region region-highlighted">
 						<div class="block block-views" id="block-views-advantages-block">
-							<h2>Why choose Evolis?</h2>
+							<h2>Why choose SEC?</h2>
 							<div id="advantageCards">
 								<div class="view view-advantages view-id-advantages view-display-id-block view-dom-id-670b80d32c8b0f47318c813b12b4e011">
 									<div class="view-content">
