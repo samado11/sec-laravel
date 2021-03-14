@@ -60,7 +60,7 @@
     @import url("css/print.css");
     </style>
      </head>
-<div class="clearfix" id="highlighted">
+<div  id="highlighted" style="margin-top:80px">
 				<div class="row">
 					<div class="region region-highlighted">
 						<div class="block block-views" id="block-views-advantages-block">
