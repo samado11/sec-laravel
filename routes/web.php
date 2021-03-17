@@ -16,3 +16,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 });
+
+Route::get('/markets', function () {return view('markets');});
+Route::get('/services', function () {return view('services');});
+Route::get('/eventAdminGet', 'AdminController@eventAdminGet');
+Route::post('/eventAdminPost', 'AdminController@eventAdminPost');
