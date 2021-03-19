@@ -18,47 +18,9 @@
         <meta http-equiv="X-UA-Compatible" content="IE=9">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-        <title>Evolis | A global leader in badge and card printers solutions</title>
-        <script src="js/api.js" async defer></script>
-		<link href="{{ URL::asset('css/system.base.css') }}" rel="stylesheet">
-        <link href="{{ URL::asset('css/system.menus.css') }}" rel="stylesheet">
-        <link href="{{ URL::asset('css/system.messages.css') }}" rel="stylesheet">
-        <link href="{{ URL::asset('css/system.theme.css') }}" rel="stylesheet">
-		<link href="{{ URL::asset('css/vgc-global.css') }}" rel="stylesheet">
-		<link href="{{ URL::asset('css/vgc-style.css') }}" rel="stylesheet">
-            
-    <style type="text/css" media="all">
 
-    </style>
-    <style type="text/css" media="all">
+ 
 
-    </style>
-    <style type="text/css" media="all">
-    </style>
-    <style type="text/css" media="all">
-    @import url("css/vgc-global.css");
-    @import url("css/vgc-style.css");
-    @import url("css/helpers.css");
-    @import url("css/global.css");
-    @import url("css/helpers_buttons.css");
-    @import url("css/grid.css");
-    @import url("css/home.css");
-    @import url("css/white-paper.css");
-    @import url("css/applicationv2.css");
-    @import url("css/marketv2.css");
-    @import url("css/market-appv2.css");
-    @import url("css/market_printers.css");
-    @import url("css/contact.css");
-    @import url("css/modals.css");
-    @import url("css/contact-maps.css");
-    @import url("css/contact-tabs.css");
-    @import url("css/blocks.css");
-    @import url("css/aside-contacts.css");
-    @import url("css/menu.css");
-    </style>
-    <style type="text/css" media="print">
-    @import url("css/print.css");
-    </style>
      </head>
 <body>
 	<nav class="topMenu" id="top-bar-wrapper">
@@ -406,7 +368,7 @@
 													</div>
 												</li>
 												<li class="om-leaf leaf-ressources" id="om-leaf-om-u1-1620657344-3">
-												<a class="om-link link-products-services" href="services">Events</a>
+												<a class="om-link link-products-services" href="events">Events</a>
 													
 												</li>
 												<li class="om-leaf leaf-drivers-support" id="om-leaf-om-u1-1620657344-4">

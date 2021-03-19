@@ -28,24 +28,19 @@
 	<title>SEC | A promising company in badge and card printers solutions</title>
 	<script async defer src="js/api.js">
 	</script>
+	<style type="text/css">
+@font-face {
+    font-family: 'cairo';
+    src: url('fonts/Cairo-ExtraLight.woff');
+	
+}
+</style>
+
+	
 	<style media="all" type="text/css">
-	       
-	       @import url("css/system.base.css");
-	      @import url("css/system.menus.css");
-	      @import url("css/system.messages.css");
-	      @import url("css/system.theme.css");
-	         
-	</style>
-	<style media="all" type="text/css">
-	         @import url("css/simplenews.css");
-	         @import url("css/ckeditor_tabber.css");
-	         @import url("css/editor-global.css");
-	         @import url("css/field.css");
-	         @import url("css/node.css");
+
 	         @import url("css/om_maximenu.css");
-	         @import url("css/user.css");
-	         @import url("css/views.css");
-	         @import url("css/ckeditor.css");
+
 	</style>
 	<style>
 	.s-services {
@@ -56,36 +51,10 @@
 	   position: relative;
 	}
 	</style>
-	<style media="all" type="text/css">
-	         @import url("css/colorbox.css");
-	         @import url("css/locale.css");
-	         @import url("css/no_style.css");
-	         @import url("css/taxonomy.css");
-	         @import url("css/eu_cookie_compliance.css");
-	</style>
+	
 	<style media="all" type="text/css">
 	</style>
-	<style media="all" type="text/css">
-	         @import url("css/vgc-global.css");
-	         @import url("css/vgc-style.css");
-	         @import url("css/helpers.css");
-	         @import url("css/global.css");
-	         @import url("css/helpers_buttons.css");
-	         @import url("css/grid.css");
-	         @import url("css/home.css");
-	         @import url("css/white-paper.css");
-	         @import url("css/applicationv2.css");
-	         @import url("css/marketv2.css");
-	         @import url("css/market-appv2.css");
-	         @import url("css/market_printers.css");
-	         @import url("css/contact.css");
-	         @import url("css/modals.css");
-	         @import url("css/contact-maps.css");
-	         @import url("css/contact-tabs.css");
-	         @import url("css/blocks.css");
-	         @import url("css/aside-contacts.css");
-	         @import url("css/menu.css");
-	</style>
+	
 	<style media="print" type="text/css">
 	         @import url("css/print.css");
 	</style>
@@ -178,9 +147,13 @@
 									</div>
 								</div><!-- end section-header -->
 								<div class="row about-desc" data-aos="fade-up">
-									<div class="col-full" style="color: #000;font-family: Gothic, sans-serif;font-size:26px">
+									<div class="col-full" style="color: #000;font-family: cairo;font-size:26px">
 										<br>
-										<p>Slogan Egypt Card was started from a long time ago as a commercial agent specializing in distributing PVC Cards ISO Standard. Our experience over 15 years ago, SEC has foreseen the PVC cards Technology wave from a very early stage. In 2015, concurrently SEC established its card management to be a local card distributor in EGYPT.</p>
+										<p>Slogan Egypt Card was started from a long time ago as a commercial
+											 agent specializing in distributing PVC Cards ISO Standard.
+											 Our experience over 15 years ago,
+											 SEC has foreseen the PVC cards Technology wave from a very early stage.
+											 In 2015,concurrently SEC established its card management to be a local card distributor in EGYPT.</p>
 									</div>
 								</div><!-- end about-desc -->
 							</div>
