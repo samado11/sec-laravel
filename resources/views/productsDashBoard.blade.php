@@ -13,8 +13,8 @@
 <body>
 
 <div class="container">
-  <h2>event form</h2>
-  <form action="/eventAdminPost" enctype="multipart/form-data" method="post">
+  <h2>products form</h2>
+  <form action="/productsAdminPost" enctype="multipart/form-data" method="post">
 					@csrf
     <div class="form-group">
       <label >arabic Title:</label>

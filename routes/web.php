@@ -18,6 +18,7 @@ Route::get('/', function () {
 });
 
 Route::get('/markets', function () {return view('markets');});
+Route::get('/contactus', function () {return view('contactUs');});
 Route::get('/services', function () {return view('services');});
 Route::get('/eventAdminGet', 'AdminController@eventAdminGet');
 Route::post('/eventAdminPost', 'AdminController@eventAdminPost');

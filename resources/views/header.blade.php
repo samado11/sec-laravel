@@ -413,7 +413,7 @@
 													<a class="om-link link-drivers-support" href="drivers-support.html">Testimonials</a>
 												</li>
 												<li class="om-leaf last leaf-contact-us" id="om-leaf-om-u1-1620657344-5">
-													<a class="om-link link-contact-us" href="contact.html">Contact us</a>
+													<a class="om-link link-contact-us" href="/contactus">Contact us</a>
 												</li>
 											</ul>
 										</div>
