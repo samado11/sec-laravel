@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
 <head>
@@ -28,10 +29,13 @@
 	<title>SEC | A promising company in badge and card printers solutions</title>
 	<script async defer src="js/api.js">
 	</script>
-	<style media="all" type="text/css">
-	            @import url("css/om_maximenu.css");
 
-	</style>
+    <style type="text/css" media="all">
+
+    @import url("/css/om_maximenu.css");
+
+    </style>
+
 	<style>
 	   a{
 	       color:#000;
@@ -91,49 +95,28 @@
 	</div>@include ('header')
 	<section class="leftBlock">
 		<div class="row">
-			<h1 class="title" id="page-title">Services</h1>
+			<h1 class="title" id="page-title">Products</h1>
 			<p>For your card and id badge projects, join the many corporates, governmental agencies, educational organizations and local authorities that already trust the SEC solutions for their plastic card personalization.</p>
 		</div>
 	</section>
 	<div style="	   margin-top:-50px;">
 		<div>
 			<div class=" con">
+			@foreach($data as $d)
 				<div class="row col-sm-12" id="heading">
 					<div class="row">
                     <div class="col-sm-4">
-						<img alt="corporate id card evolis printer" src="images/printer.png" style="padding-top:20px" width="145">
+						<img alt="corporate id card evolis printer" src="/images/products/{{$d->img}}" style="padding-top:20px" width="145">
                         </div>
                         <div class="col-sm-8">
-                         <h2>Card printers</h2>
+                         <h2>{{$d->title_en}}</h2>
 
-						<p ><span>Facilitate the issuance of employee id's, visitor badges and enhance security with our high quality access control badges, issued on your premises, on demand.</span></p>
+						<p ><span> {{$d->details_en}}</span></p>
 					</div>
                     </div>
 				</div>
-                <div class="row col-sm-12" id="heading">
-					<div class="row">
-                    <div class="col-sm-4">
-						<img alt="corporate id card evolis printer" src="images/printer.png" style="padding-top:20px" width="145">
-                        </div>
-                        <div class="col-sm-8">
-                         <h2>Card printers</h2>
-
-						<p ><span>Facilitate the issuance of employee id's, visitor badges and enhance security with our high quality access control badges, issued on your premises, on demand.</span></p>
-					</div>
-                    </div>
-				</div>
-                <div class="row col-sm-12" id="heading">
-					<div class="row">
-                    <div class="col-sm-4">
-						<img alt="corporate id card evolis printer" src="images/printer.png" style="padding-top:20px" width="145">
-                        </div>
-                        <div class="col-sm-8">
-                         <h2>Card printers</h2>
-
-						<p ><span>Facilitate the issuance of employee id's, visitor badges and enhance security with our high quality access control badges, issued on your premises, on demand.</span></p>
-					</div>
-                    </div>
-				</div>
+				@endforeach
+                
 				
 			</div>
 		</div>

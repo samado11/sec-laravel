@@ -14,7 +14,7 @@
 
 <div class="container">
   <h2>products form</h2>
-  <form action="/productsAdminPost" enctype="multipart/form-data" method="post">
+  <form action="/productAdminPost" enctype="multipart/form-data" method="post">
 					@csrf
     <div class="form-group">
       <label >arabic Title:</label>
@@ -31,6 +31,14 @@
 	<div class="form-group">
       <label >English details:</label>
       <input type="text" class="form-control" id="details_en" placeholder="Enter english details" name="details_en">
+    </div>
+    <div class="form-group">
+    <select name="category" id="category">
+  <option value=1>Card Printers</option>
+  <option value=2>Consumables</option>
+  <option value=3>accessories</option>
+  <option value=4>plastic cards</option>
+</select>
     </div>
     <div class="form-group">
       <label for="pwd">image:</label>

@@ -103,18 +103,24 @@
     </ol>
 
     <!-- Wrapper for slides -->
-    <div class="carousel-inner">
     
-      <div class="item active">
-      @foreach($data as $d)
-        <img src="/images/img/{{$d->img}}" alt="Los Angeles" style="width:50%;">
-        <h2>{{$d->title_en}}</h2>
-        <p>{{$d->details_en}}</p>
-        @endforeach
-      </div>
-      
+    
+    <div class="carousel-inner" ><!-- Inner wrapper for slides -->
+@foreach($data as $index =>$image)
+    <div class="item @if($index == '1'){{'active'}}@endif"> <!-- First item slider -->
+        <img src="/images/events/{{$image->img}}" style="width:1000px;height:1000px;"> <!-- First item background image slider -->
+        <div class="carousel-caption overlay">
+            <div class="content">
+                <div class="text wow bounceIn animated" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.2s; -webkit-animation-delay: 0.2s; animation-name: bounceIn; -webkit-animation-name: bounceIn;">
+                    <h1>{{$image->title_en}}</h1>
+                    <p>{{$image->details_en}}</p>
+                </div>
+            </div>
+        </div> <!-- End first item background image slider -->
+    </div> <!-- End first item slider -->
 
-    </div>
+    @endforeach
+</div>
     
 
     <!-- Left and right controls -->

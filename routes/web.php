@@ -22,6 +22,11 @@ Route::get('/contactus', function () {return view('contactUs');});
 Route::get('/events', function () {
     $data = DB::table('events')->get();
     return view('events', ['data' => $data]);});
+Route::get('/products/{id}', function ($id) {
+    $data = DB::table('products')->where('category','=', $id)->get();
+    return view('products', ['data' => $data]);});
 Route::get('/services', function () {return view('services');});
 Route::get('/eventAdminGet', 'AdminController@eventAdminGet');
 Route::post('/eventAdminPost', 'AdminController@eventAdminPost');
+Route::get('/productAdminGet', 'AdminController@productAdminGet');
+Route::post('/productAdminPost', 'AdminController@productAdminPost');

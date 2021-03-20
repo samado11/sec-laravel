@@ -71,7 +71,7 @@
 										<ul class="cards">
 											<li class="">
 												<div class="node-advantage node-teaser node-teaser">
-													<a href="quality.html"><img alt="" height="74" src="images/medal.png" width="75">
+													<a href="quality.html"><img alt="" height="74" src="/images/medal.png" width="75">
 													<h3>Quality</h3>
 													<div class="content">
 														<p>The recognized quality and reliability of our products and services.</p>
@@ -80,7 +80,7 @@
 											</li>
 											<li class="">
 												<div class="node-advantage node-teaser node-teaser">
-													<a href="innovation.html"><img alt="" height="74" src="images/innovation.png" width="75">
+													<a href="innovation.html"><img alt="" height="74" src="/images/innovation.png" width="75">
 													<h3>Innovation</h3>
 													<div class="content">
 														<p>Evolis&#039; great ability to innovate as a key success factor.</p>
@@ -89,7 +89,7 @@
 											</li>
 											<li class="">
 												<div class="node-advantage node-teaser node-teaser">
-													<a href="versatility.html"><img alt="" height="74" src="images/value.png" width="75">
+													<a href="versatility.html"><img alt="" height="74" src="/images/value.png" width="75">
 													<h3>Value for a price</h3>
 													<div class="content">
 														<p>Evolis&#039; flexible solutions to respond to our customers&#039; needs.</p>
@@ -98,7 +98,7 @@
 											</li>
 											<li class="">
 												<div class="node-advantage node-teaser node-teaser">
-													<a href="international-expertise.html"><img alt="" height="74" src="images/experience.png" width="75">
+													<a href="international-expertise.html"><img alt="" height="74" src="/images/experience.png" width="75">
 													<h3>International expertise</h3>
 													<div class="content">
 														<p>A focus on international sales that makes Evolis what it is today.</p>
@@ -107,7 +107,7 @@
 											</li>
 											<li class="">
 												<div class="node-advantage node-teaser node-teaser">
-													<a href="eco-responsibility.html"><img alt="" height="74" src="images/responsibility.png" width="75">
+													<a href="eco-responsibility.html"><img alt="" height="74" src="/images/responsibility.png" width="75">
 													<h3>Eco-responsibility</h3>
 													<div class="content">
 														<p>Evolis&#039; environmental policy at all levels of the company.</p>

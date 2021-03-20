@@ -46,7 +46,7 @@
 				</ul>
 			</li>
 			<li class="trigger-menu">
-				<span><a href="#" id="partner">SEC Partners</a></span>
+				<span><a href="http://www.pointman.co.kr/ENG/" target="_blank" id="partner">SEC Partners</a></span>
 				<div class="menu-block-wrapper menu-block-evolis-partner-first-lvl menu-name-menu-evolis-partner parent-mlid- menu-level-1">
 					
 				</div>
@@ -72,7 +72,7 @@
 					<li id="logo">
 						<div style="margin-top:-40px">
 							<a href="/" rel="home" title="Home">
-							<h1 class="frontLogo"><img alt="Evolis, leader of printing solutions on plastic cards" src="images/logo.png"></h1></a>
+							<h1 class="frontLogo"><img alt="SEC, promising company of printing solutions on plastic cards" src="/images/logo.png"></h1></a>
 						</div>
 					</li>
 					<li id="mainMenuHolder">
@@ -94,140 +94,58 @@
 																<div class="om-maximenu-middle-right mainHeader__markets">
 																	<ul class="mainHeader__left-markets">
 																		<li class="mainHeader__left-market">
-																			<a href="corporate-card-printing.html">Corporate</a>
+																			<a >Corporate</a>
 																		</li>
 																		<li class="mainHeader__left-market">
-																			<a href="education-card-printing.html">Education</a>
+																			<a >Education</a>
 																		</li>
 																		<li class="mainHeader__left-market">
-																			<a href="government-card-printing.html">Government</a>
+																			<a >Government</a>
 																		</li>
 																		<li class="mainHeader__left-market">
-																			<a href="hospitality-leisure-card-printing.html">Hotels</a>
+																			<a >Hotels</a>
 																		</li>
 																		<li class="mainHeader__left-market">
-																			<a href="retail-card-printing.html">Retail</a>
+																			<a >Retail</a>
 																		</li>
 																		
 																		<li class="mainHeader__left-market">
-																			<a href="finance.html">Banking</a>
+																			<a >Banking</a>
 																		</li>
 																		<li class="mainHeader__left-market">
-																			<a href="health-card-printing.html">Health</a>
+																			<a >Health</a>
 																		</li>
 																	</ul>
 																	<div class="block block-evolis block-evolis-id-menu first last">
 																		<nav class="content">
 																			<div class="market">
-																				<span data-me="167"><a href="corporate-card-printing.html">Corporate</a></span>
-																				<ul class="links">
-																					<li class="0 first">
-																						<a class="bar_class" href="mitarbeiterausweis-zugangskontrolle-printing.html">Employee Badge and Access Control</a>
-																					</li>
-																					<li class="1">
-																						<a class="bar_class" href="mitarbeiterausweis-zugangskontrolle-printing.html">Access control card</a>
-																					</li>
-																					<li class="2">
-																						<a class="bar_class" href="mitarbeiterausweis-zugangskontrolle-printing.html">Attendance and time management badge</a>
-																					</li>
-																					<li class="3">
-																						<a class="bar_class" href="event-badge-printing.html">Event badge</a>
-																					</li>
-																					<li class="4">
-																						<a class="bar_class" href="visitor-access-card-printing.html">Visitor Access Cards</a>
-																					</li>
-																					<li class="5 last">
-																						<a class="bar_class" href="signature-pads.html">Digital signature</a>
-																					</li>
-																				</ul>
+																				<span data-me="167"><a >Corporate</a></span>
+																				
 																			</div>
 																			<div class="market">
-																				<span data-me="169"><a href="education-card-printing.html">Education</a></span>
-																				<ul class="links">
-																					<li class="0 first">
-																						<a class="bar_class" href="school-id-card-printing.html">School ID card</a>
-																					</li>
-																					<li class="1">
-																						<a class="bar_class" href="student-id-card-printing.html">Student ID card</a>
-																					</li>
-																					<li class="2 last">
-																						<a class="bar_class" href="digital-signature-printing.html">Digital signature</a>
-																					</li>
-																				</ul>
+																				<span data-me="169"><a >Education</a></span>
+																				
 																			</div>
 																			<div class="market">
 																				<span data-me="173"><a href="government-card-printing.html">Government</a></span>
-																				<ul class="links">
-																					<li class="0 first">
-																						<a class="bar_class" href="national-id-card-printing.html">National ID card</a>
-																					</li>
-																					<li class="1">
-																						<a class="bar_class" href="driver-license-card-printing.html">Driver's license</a>
-																					</li>
-																					<li class="2">
-																						<a class="bar_class" href="health-insurance-card-printing.html">Health insurance card</a>
-																					</li>
-																					<li class="3 last">
-																						<a class="bar_class" href="digital-signature-printing_1.html">Digital signature</a>
-																					</li>
-																				</ul>
+																				
 																			</div>
 																			<div class="market">
 																				<span data-me="170"><a href="hospitality-leisure-card-printing.html">Hotels</a></span>
-																				<ul class="links">
-																					<li class="0 first">
-																						<a class="bar_class" href="buffet-tag-hotels-printing.html">Buffet tag for hotels</a>
-																					</li>
-																					<li class="1">
-																						<a class="bar_class" href="membership-card-printing.html">Membership card</a>
-																					</li>
-																					<li class="2">
-																						<a class="bar_class" href="identification-access-control-badge-printing.html">ID and access management card</a>
-																					</li>
-																					<li class="3 last">
-																						<a class="bar_class" href="digital-signature-printing_3.html">Digital signature</a>
-																					</li>
-																				</ul>
+																				
 																			</div>
 																			<div class="market">
 																				<span data-me="168"><a href="retail-card-printing.html">Retail</a></span>
-																				<ul class="links">
-																					<li class="0 first">
-																						<a class="bar_class" href="price-tag-printing.html">Price tag</a>
-																					</li>
-																					<li class="1">
-																						<a class="bar_class" href="customer-loyalty-card-printing.html">Loyalty card</a>
-																					</li>
-																					<li class="2">
-																						<a class="bar_class" href="prepaid-card-gift-cards-printing.html">Prepaid card and Gift Cards</a>
-																					</li>
-																					<li class="3 last">
-																						<a class="bar_class" href="digital-signature-printing_2.html">Digital signature</a>
-																					</li>
-																				</ul>
+																				
 																			</div>
 																			
 																			<div class="market">
 																				<span data-me="786"><a href="finance.html">Banking</a></span>
-																				<ul class="links">
-																					<li class="0 first">
-																						<a class="bar_class" href="branch-issuance-debit-credit-card-printing.html">In-Branch Issuance of Debit and Credit Card</a>
-																					</li>
-																					<li class="1 last">
-																						<a class="bar_class" href="self-service-card-issuance-printing.html">Self-Service Card Issuance</a>
-																					</li>
-																				</ul>
+																				
 																			</div>
 																			<div class="market">
 																				<span data-me="833"><a href="health-card-printing.html">Health</a></span>
-																				<ul class="links">
-																					<li class="0 first">
-																						<a class="bar_class" href="id-access-control-card-printing.html">ID and Access Control Card</a>
-																					</li>
-																					<li class="1 last">
-																						<a class="bar_class" href="electronic-signatures-healthcare-facilities-printing.html">ELECTRONIC SIGNATURES IN HEALTHCARE FACILITIES</a>
-																					</li>
-																				</ul>
+																				
 																			</div>
 																		</nav>
 																	</div>
@@ -293,50 +211,7 @@
 																								</div></a>
 																							</div>
 																						</li>
-																						<li class="views-row views-row-4 views-row-even">
-																							<div class="taxonomy-term vocabulary-products-and-services" id="taxonomy-term-719">
-																								<a class="linkOverlay" href="software.html">
-																								<div class="content">
-																									<div class="products-and-services__image"><img alt="" height="84" src="images/softwares.png" width="100"></div>
-																									<div class="not-over">
-																										Software
-																									</div>
-																								</div></a>
-																							</div>
-																						</li>
-																						<li class="views-row views-row-5 views-row-odd">
-																							<div class="taxonomy-term vocabulary-products-and-services" id="taxonomy-term-720">
-																								<a class="linkOverlay" href="signature-pads.html">
-																								<div class="content">
-																									<div class="products-and-services__image"><img alt="" height="90" src="images/sig_pads.png" width="100"></div>
-																									<div class="not-over">
-																										Signature pads
-																									</div>
-																								</div></a>
-																							</div>
-																						</li>
-																						<li class="views-row views-row-6 views-row-even">
-																							<div class="taxonomy-term vocabulary-products-and-services" id="taxonomy-term-722">
-																								<a class="linkOverlay" href="customer-service.html">
-																								<div class="content">
-																									<div class="products-and-services__image"><img alt="" height="76" src="images/services_0.png" width="100"></div>
-																									<div class="not-over">
-																										Services
-																									</div>
-																								</div></a>
-																							</div>
-																						</li>
-																						<li class="views-row views-row-7 views-row-odd">
-																							<div class="taxonomy-term vocabulary-products-and-services" id="taxonomy-term-723">
-																								<a class="linkOverlay" href="project-management.html">
-																								<div class="content">
-																									<div class="products-and-services__image"><img alt="" height="66" src="images/project.png" width="100"></div>
-																									<div class="not-over">
-																										Project management
-																									</div>
-																								</div></a>
-																							</div>
-																						</li>
+																						
 																						<li class="views-row views-row-8 views-row-even views-row-last">
 																							<div class="taxonomy-term vocabulary-products-and-services" id="taxonomy-term-718">
 																								<a class="linkOverlay" href="accessories.html">
@@ -385,9 +260,9 @@
 						</div>
 						<div id="searchBox">
 							<a href="#" id="trigger" style="display: none;">Search</a>
-							<form action="https://www.evolis.com/search" id="searchForm" name="searchForm">
+							<!-- <form action="https://www.evolis.com/search" id="searchForm" name="searchForm">
 								<input id="searchInput" name="fulltext" placeholder="Enter your query here" type="text"> <input type="submit" value="OK">
-							</form>
+							</form> -->
 						</div>
 					</li>
 				</ul>

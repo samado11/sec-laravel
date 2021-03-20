@@ -100,30 +100,34 @@
 			<div class="row con">
 				<div class="col-sm-3" id="heading">
 					<div>
-						<a></a> <span class="content"><img alt="corporate id card evolis printer" src="images/printer.png" style="padding-top:20px" width="145"> <span class="h2"><a href="" id="one">Card printers</a></span></span>
+						<a href="/products/1"> <span class="content"><img alt="corporate id card evolis printer" src="images/printer.png" style="padding-top:20px" width="145"> <h2><a id="one">Card Printers</a></h2>
 						<h2 id="two"><span>Printing cards and badges for businesses</span></h2><span></span>
 						<p id="one"><span>Facilitate the issuance of employee id's, visitor badges and enhance security with our high quality access control badges, issued on your premises, on demand.</span></p>
+						</a>
 					</div>
 				</div>
 				<div class="col-sm-3" id="heading">
 					<div>
-						<a class="linkOverlay" href=""></a> <span class="content"><img height="188" src="images/paper.png" style="padding-top:20px" title="student cards evolis printers" width="145"> <span class="h2"><a href="" id="one">Consumables</a></span></span>
+						<a href="/products/2"> <span class="content"><img height="188" src="images/paper.png" style="padding-top:20px" title="student cards evolis printers" width="145"><h2><a id="one">Consumables</a></h2>
 						<h2 id="two"><span>Printing student cards and badges</span></h2><span></span>
 						<p id="one"><span>Many prestigious universities, colleges and schools around the world use Evolis card printers to issue Student / Staff ID's as well as library and campus cards.</span></p>
+						</a>
 					</div>
 				</div>
 				<div class="col-sm-3" id="heading">
 					<div>
-						<a class="linkOverlay" href=""></a> <span class="content"><img height="144" src="images/student-card.png" style="padding-top:20px"  width="145"> <span class="h2"><a id="one"><span style="color:transparent">.......</span>id accessories</a></span></span>
+						<a href="/products/3"> <span class="content"><img height="144" src="images/student-card.png" style="padding-top:20px"  width="145"> <h2><a id="one">id accessories</a></h2>
 						<h2 id="two"><span>Government: editing secured ID cards</span></h2><span></span>
 						<p id="one"><span>Evolis printing and encoding solutions allow governments to deliver highly secure official documents and to prevent counterfeiting of identification cards.</span></p>
+						</a>
 					</div>
 				</div>
 				<div class="col-sm-3" id="heading">
 					<div>
-						<a class="linkOverlay" href=""></a> <span class="content"><img height="144" src="images/credit.png" style="padding-top:20px"  width="145"> <span class="h2"><a id="one">plastic labeling cards</a></span></span>
-						<h2 id="two"><span>Hotels pass cards</span></h2><span></span>
+						<a href="/products/4"> <span class="content"><img height="144" src="images/credit.png" style="padding-top:20px"  width="145"> <h2><a id="one">Plastic cards</a></h2>
+						<h2 id="two"><span>Government: editing secured ID cards</span></h2><span></span>
 						<p id="one"><span>Evolis printing and encoding solutions allow governments to deliver highly secure official documents and to prevent counterfeiting of identification cards.</span></p>
+						</a>
 					</div>
 				</div>
 			</div>
